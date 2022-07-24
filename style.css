@@ -1,0 +1,44 @@
+body{
+    margin-left: auto;
+    margin-right: auto;
+
+}
+table, td, th {
+    border: 1px solid black;
+  }
+  
+
+  table {
+    border-collapse: collapse;
+  }
+  
+  td {
+    text-align: center;
+
+  }
+
+  .td-pn{
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+  .td-pr{
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .price{
+    padding-left: 4.5px;
+    padding-right: 4.5px;
+  }
+  .action{
+    padding-left: 24px;
+    padding-right: 24px;
+  }
+  
+  .welcome-container{
+    display: flex;
+  }
+  .logout{
+    border: none;
+    background-color: #fff;
+  }

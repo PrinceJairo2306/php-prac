@@ -1,0 +1,26 @@
+
+
+table, td, th {
+    border: 1px solid black;
+  }
+  
+  table {
+    border-collapse: collapse;
+    width: 30%;
+  }
+  
+  td {
+    text-align: center;
+  }
+  .first-name{
+    padding: 0%;
+    width:10%;
+}
+
+.last-name{
+ width: 21%;
+}
+
+.email{
+    width: 41%;
+   }
